@@ -1,0 +1,25 @@
+{
+  "name": "ccr-volcengine-coding-plan-usage",
+  "version": "1.0.0",
+  "description": "CCR (Claude Code Router) 插件：火山引擎 Coding Plan 套餐余量（5 小时/每周/每月）显示为 ark 供应商账户用量",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "node --test test.cjs"
+  },
+  "keywords": [
+    "claude-code-router",
+    "ccr-plugin",
+    "volcengine",
+    "ark",
+    "coding-plan",
+    "usage"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiaquanchou/ccr-volcengine-coding-plan-usage.git"
+  }
+}

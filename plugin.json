@@ -1,0 +1,15 @@
+{
+  "id": "volcengine-coding-plan-usage",
+  "name": "火山 Coding Plan 用量",
+  "description": "通过火山官方 Ark CLI 登录态读取 Coding Plan 套餐余量。",
+  "module": "index.cjs",
+  "surfaces": {
+    "apps": false,
+    "gateway": false,
+    "provider": true
+  },
+  "permissions": [
+    "trusted-code",
+    "provider-account-connectors"
+  ]
+}
