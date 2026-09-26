@@ -14,6 +14,8 @@
 ![CCR](https://img.shields.io/badge/CCR-3.1.1%2B-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-ff4f8b)
 
+<img src="docs/usage-card.png" width="380" alt="ark 供应商账户用量卡片：5 小时 / 每周 / 每月余量" />
+
 </div>
 
 本项目是社区插件，不隶属于火山引擎或 Claude Code Router。插件调用本机官方 **Ark CLI**，自身不保存任何 Key 或登录态。

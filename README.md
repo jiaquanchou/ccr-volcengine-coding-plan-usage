@@ -14,6 +14,8 @@ Show your Volcano Engine Coding Plan quota — 5-hour, weekly, and monthly windo
 ![CCR](https://img.shields.io/badge/CCR-3.1.1%2B-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-ff4f8b)
 
+<img src="docs/usage-card.png" width="380" alt="The ark provider account usage card showing 5-hour, weekly and monthly Coding Plan quota" />
+
 </div>
 
 This is a community plugin, not affiliated with Volcano Engine or Claude Code Router. It calls the official **Ark CLI** on your machine and never stores any key or login state itself.
